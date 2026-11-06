@@ -18,14 +18,6 @@ A single-page website that gathers my skills, projects, and contact details in o
 - Responsive layout for desktop and mobile
 - Hand-written HTML, CSS, and JavaScript — no framework
 
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[PIC16F628A Fan Control](https://github.com/9rtnkun/Fan-Speed-Control)** | Fan control on a PIC16F628A microcontroller, simulated in PICSimLab | PIC16F628A, PICSimLab, Embedded C |
-| **[IoT Traffic Light](https://github.com/9rtnkun/iot-traffic-light)** | Control and monitor a traffic light over MQTT with an LDR sensor and a React dashboard | IoT, MQTT, ESP32, React |
-| **[Personal Portfolio Website](https://portfolio-ratana-rattanaburee.netlify.app/)** | Personal website that gathers my skills, projects, and contact details in one place | HTML5, CSS3, JavaScript | [Live](https://portfolio-ratana-rattanaburee.netlify.app/) · [Code](https://github.com/9rtnkun/<repo-name>) |
-
 ## Contact
 
 - 📧 [s.ratanakun2005@gmail.com](mailto:s.ratanakun2005@gmail.com)
